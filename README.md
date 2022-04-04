@@ -1,3 +1,3 @@
-# CMBC-100-Years
+# CMBC-100-Years Celebration
 
 Hello im Robert Powell and im buidling an webpage that will celebrate the 100 year anniverasity of the church that ive attended for most of my life which is Cumberland Missonary Baptist Church in CUmberland, Kentucky. Our anniveristy date is in September of 2022 and an big celebration is in store. This webpage will showcase the skills that ive learned in my post Code Kentucky timeframe and hopes to show off that tech is an show me event and hopefully this will be seen by people outside of Code Kentucky. We will cover some history of our church and an list of former preachers and our current preacher. 
